@@ -2,7 +2,7 @@
 **Front-End–First Full-Stack Developer | Contract Software Engineer**  
 Designing scalable, maintainable, and user-centred web systems.
 
-🧠 **Tech Snapshot:** Blazor · ASP.NET · TypeScript · Node.js · Bootstrap · Vite · Playwright
+🧠 **Tech Snapshot:** React · Angular ·  TypeScript · ASP.NET · Node.js · Bootstrap · Vite · Playwright
 
 ---
 
