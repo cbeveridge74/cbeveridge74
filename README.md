@@ -8,10 +8,10 @@ Designing scalable, maintainable, and user-centred web systems.
 
 ## 🧭 Summary
 Versatile engineer with a track record of transforming complex or legacy products into clean, modular systems.  
-I specialise in **front-end architecture, UX consistency, and long-term maintainability** — using whatever tech stack fits the problem.  
+Specialising in **front-end architecture, UX consistency, and long-term maintainability** — using whatever tech stack fits the problem.  
 Equally comfortable designing component frameworks, streamlining build pipelines, or bridging UI and backend logic.  
 
-I value **clarity**: my work focuses on patterns that scale, stay readable, and minimise regression risk.
+Valuing **clarity**: my work focuses on patterns that scale, stay readable, and minimise regression risk.
 
 ---
 
