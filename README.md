@@ -25,7 +25,7 @@ Valuing **clarity**: my work focuses on patterns that scale, stay readable, and 
 
 ---
 
-## 🚀 Selected Project Highlights
+## Selected Project Highlights
 
 ### Legacy System Modernisation
 Refactored a clinician-built secondary-care application with heavy jQuery and Web Forms into a modular architecture.  
@@ -42,7 +42,7 @@ Structured it around a shared core and feature modules with a multi-entrypoint b
 
 ---
 
-### ⚙️ Workflow / Task Application
+### Workflow / Task Application
 Developed event-driven UI behaviour for synchronising task lifecycle updates across machines using publish/subscribe mechanics.  
 ➡️ **Outcome:** Real-time collaboration and simplified extension for new task types.
 
