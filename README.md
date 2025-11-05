@@ -1,5 +1,6 @@
 # Craig Beveridge  
 **Front-End–First Full-Stack Developer | Contract Software Engineer**  
+
 Designing scalable, maintainable, and user-centred web systems.
 
 **Tech Snapshot:** React · Angular ·  TypeScript · ASP.NET · Node.js · Bootstrap · Vite · Playwright
@@ -31,20 +32,23 @@ Valuing **clarity**: my work focuses on patterns that scale, stay readable, and 
 Refactored a clinician-built secondary-care application with heavy jQuery and Web Forms into a modular architecture.  
 Introduced a component-based front-end layer, event publishing/subscription for live updates, and structured services for data access.  
 Introduced a streamlined branching and frequent release strategy that improved delivery cadence and reduced deployment friction.  
-➡️ **Outcome:** Faster feature delivery and reduced QA regression load.
+
+**Outcome:** Faster feature delivery and reduced QA regression load.
 
 ---
 
 ### Custom Front-End Framework
 Created a lightweight JavaScript component framework using Shadow DOM encapsulation and Bootstrap theming.  
 Structured it around a shared core and feature modules with a multi-entrypoint bundler setup (Vite/Rollup).  
-➡️ **Outcome:** Reuse across multiple pages, single load per session, and consistent style isolation.
+
+**Outcome:** Reuse across multiple pages, single load per session, and consistent style isolation.
 
 ---
 
 ### Workflow / Task Application
 Developed event-driven UI behaviour for synchronising task lifecycle updates across machines using publish/subscribe mechanics.  
-➡️ **Outcome:** Real-time collaboration and simplified extension for new task types.
+
+**Outcome:** Real-time collaboration and simplified extension for new task types.
 
 ---
 
