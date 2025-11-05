@@ -1,3 +1,19 @@
+# Welcome
+
+This repository is a **collection of projects that I can legally share**.  
+
+Most of these are **rough workings, experimental builds, or test projects** created to explore ideas, prove concepts, or experiment with new technologies. They **should not be considered production-ready code**, but rather **snapshots of what I was working on at the time**.
+
+The projects span a wide range of technologies and approaches, with the earliest dating back to **2014**. They include:
+
+- Chrome Apps  
+- React-based web apps  
+- TypeScript libraries and utilities  
+- Full-stack experiments  
+- And more recently, apps built entirely with **vibe coding**  
+
+This collection is meant to show the evolution of the tech I’ve worked with over the years and the approaches I’ve experimented with, rather than polished or deployable solutions.  <br><br><br>
+
 # Craig Beveridge  
 **Front-End–First Full-Stack Developer | Contract Software Engineer**  
 
